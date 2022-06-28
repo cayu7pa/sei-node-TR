@@ -1,3 +1,7 @@
+https://github.com/ruesandora dan alınmıştır.
+
+
+
 <h1 align="center">Sei Validatör Script Kurulum</h1>
 
 # Sei Network validatör kurulum rehberine hoş geldiniz.
